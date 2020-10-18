@@ -1,0 +1,1 @@
+array = Array.new(3) { Array.new(4) { 0 } } # create a 3x4 array of zeros

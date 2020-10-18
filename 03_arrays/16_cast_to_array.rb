@@ -1,0 +1,6 @@
+Array('something') #=> ["something"]
+Array([2, 1, 5])   #=> [2, 1, 5]
+Array(1)           #=> [1]
+Array(2..4)        #=> [2, 3, 4]
+Array([])          #=> []
+Array(nil)         #=> []
